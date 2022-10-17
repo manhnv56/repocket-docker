@@ -10,7 +10,7 @@ cd repocket-docker
 docker-compose up
 ```
 
-Open http://127.0.0.1:3000 in your browser and log in to Repocket
+Open http://127.0.0.1:3000/vnc_auto.html in your browser and log in or [sign up](https://link.repocket.co/S2R8)
 
 ### Without vnc
 
