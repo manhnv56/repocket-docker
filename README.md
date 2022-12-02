@@ -5,7 +5,7 @@ Dockerized version of Repocket
 ## Usage
 
 ```sh
-git clone https://github.com/FailedShack/repocket-docker
+git clone https://github.com/manhnv56/repocket-docker
 cd repocket-docker
 docker-compose up
 ```
